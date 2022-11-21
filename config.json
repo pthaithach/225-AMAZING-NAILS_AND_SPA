@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Amazing Nails And Spa",
+        "slug"      : "amazing-nails-and-spa",
+        "phone"     : "(503) 513-7127",
+        "email"     : "tranandy717@gmail.com",
+        "address"   : "10818 SE Oak St, Suite C, Milwaukie, Oregon 97222 (Milwaukie marketplace)",
+        "time_1"    : "Mon - Fri: 10:00 AM - 07:00 PM",
+        "time_2"    : "Sat: 09:30 AM - 07:00 PM",
+        "time_3"    : "Sun: 10:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/amazingmilwaukeenails/",
+        "instagram" :   "https://www.instagram.com/amazingnail_milwaukie/",
+        "google"    :   "https://goo.gl/maps/MfYAJdXwuYjrULCCA",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDk4NTV8YW1hemluZzEwODE4fE9SXzA4MTUyfDliYmJmMGY1NGFmOWNiMGNjN2Y5YTM5ZTVmYzIyMmQ3",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11197.081928078764!2d-122.6273695!3d45.4442053!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdc154443bd40320a!2sAmazing%20Nails%20and%20Spa!5e0!3m2!1svi!2s!4v1669001818293!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "rgb(229 163 199 / 100%)",
+        "primary_light"         :   "rgb(229 163 199 / 50%)",
+        "primary_hover"         :   "rgb(229 163 199 / 80%)",
+        "secondary"             :   "#144f95",
+        "secondary_hover"       :   "#0a284d",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#ffc600",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
